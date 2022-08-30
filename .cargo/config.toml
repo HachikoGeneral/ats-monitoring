@@ -9,7 +9,8 @@ POSTGRES_PORT = "5432"
 
 # Sms gateway settings
 # Sms gateway string connection
-GATEWAY_STR_CONNECTION = "https://api-mapper.clicksend.com/http/v2/send.php?method=http&username=development-service@yandex.ru&key=1E82A334-89D8-985C-526B-712DB70A713D&to=+79139402913&message="
+GATEWAY_STR_CONNECTION = "http://95.179.194.226:3000/&key=AAEg-LkL237CiilpcswvfrDFaAlpj83aQ7g
+&to=+5634685411&message="
 
 # Alert messages for sms gateway
 # The text of the SMS-message about the generator operation error
