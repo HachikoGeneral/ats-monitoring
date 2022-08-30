@@ -1,8 +1,8 @@
 [env]
 # PostgreSQL settings
-POSTGRES_USERNAME = "postgres"
-POSTGRES_PASSWORD = "mysecretpassword"
-POSTGRES_DB = "postgres"
+POSTGRES_USERNAME = "HachikoPrime"
+POSTGRES_PASSWORD = "Hello123!"
+POSTGRES_DB = "/etc/postgresql/12/main"
 POSTGRES_HOSTNAME = "postgresql"
 POSTGRES_PORT = "5432"
 
