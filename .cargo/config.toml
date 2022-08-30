@@ -9,8 +9,7 @@ POSTGRES_PORT = "5432"
 
 # Sms gateway settings
 # Sms gateway string connection
-GATEWAY_STR_CONNECTION = "http://95.179.194.226:3000/&key=AAEg-LkL237CiilpcswvfrDFaAlpj83aQ7g
-&to=+5634685411&message="
+GATEWAY_STR_CONNECTION = "http://95.179.194.226:3000/&key=AAEg-LkL237CiilpcswvfrDFaAlpj83aQ7g&to=+5634685411&message="
 
 # Alert messages for sms gateway
 # The text of the SMS-message about the generator operation error
