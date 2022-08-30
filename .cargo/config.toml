@@ -33,12 +33,12 @@ SMS_POW_RESTORED_GEN_ERR = "Питание+от+электросети+восс�
 
 # Telegram-bot settings
 # Token
-TG_BOT_TOKEN = "5554390902:AAHlRMql--ZbLHEybzEY1MK_r19b9EEU6_I"
+TG_BOT_TOKEN = "5634685411:AAEg-LkL237CiilpcswvfrDFaAlpj83aQ7g"
 
 
 # PLC settings
 # IP adress PLC TRIM5
-IP_TRIM5 = "10.54.52.201:502"
+IP_TRIM5 = "95.179.194.226:9944"
 
 # mains_power_supply modbus adress
 MAINS_POWER_SUPPLY = "2"
